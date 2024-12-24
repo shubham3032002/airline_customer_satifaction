@@ -1,0 +1,14 @@
+numpy
+pandas
+setuptools
+scikit-learn
+lightgbm
+matplotlib
+mlflow
+flask
+pylint
+flake8
+black
+mysql-connector
+pymysql
+-e .
