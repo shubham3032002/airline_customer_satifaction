@@ -8,3 +8,6 @@ TEST_DATA_PATH = os.path.join(INGESTED_DATA_DIR , "test.csv")
 
 PROCEESED_DIR=os.path.join(ARTIFACTS_DIR,'processed_data')
 PROCESS_DATA_PATH=os.path.join(ARTIFACTS_DIR,'processed_data','processed_data.csv')
+
+ENGINEERED_DIR=os.path.join(ARTIFACTS_DIR,'engineered_data')
+ENGINEERED_DATA_PATH=os.path.join(ARTIFACTS_DIR,'engineered_data','final_df.csv')
