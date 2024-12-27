@@ -11,4 +11,8 @@ flake8
 black
 mysql-connector
 pymysql
+lightgbm
+xgboost
+tensorboard
+torch
 -e .
