@@ -15,4 +15,5 @@ lightgbm
 xgboost
 tensorboard
 torch
+dvc
 -e .

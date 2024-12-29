@@ -1,0 +1,20 @@
+cmd: python src/future_selection.py
+deps:
+- path: config/path_config.py
+  hash: md5
+  md5: 2cf2e65f809d34ada7dea5e2646ad6d1
+  size: 719
+- path: src/future_selection.py
+  hash: md5
+  md5: 4b97d529a9d6dad564805e61a84b7527
+  size: 4879
+- path: utils/common.py
+  hash: md5
+  md5: 6ea5e10193fcdeb7637bca8045d2a91a
+  size: 345
+outs:
+- path: artifacts/engineered_data
+  hash: md5
+  md5: 232b29fac5274f8bc0383eda6570b0e3.dir
+  size: 3503241
+  nfiles: 1

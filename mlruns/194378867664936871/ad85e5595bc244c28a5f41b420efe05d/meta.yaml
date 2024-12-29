@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DATA%20SCIENCE/ML%20project/airline2/mlruns/194378867664936871/ad85e5595bc244c28a5f41b420efe05d/artifacts
+end_time: 1735476399369
+entry_point_name: ''
+experiment_id: '194378867664936871'
+lifecycle_stage: active
+run_id: ad85e5595bc244c28a5f41b420efe05d
+run_name: auspicious-lamb-258
+run_uuid: ad85e5595bc244c28a5f41b420efe05d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735476300677
+status: 3
+tags: []
+user_id: shubh

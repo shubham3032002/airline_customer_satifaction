@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DATA%20SCIENCE/ML%20project/airline2/mlruns/194378867664936871/14ac8471a737404fa784e4b5b68e24f9/artifacts
+end_time: 1735482303603
+entry_point_name: ''
+experiment_id: '194378867664936871'
+lifecycle_stage: active
+run_id: 14ac8471a737404fa784e4b5b68e24f9
+run_name: able-gull-177
+run_uuid: 14ac8471a737404fa784e4b5b68e24f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735482243166
+status: 3
+tags: []
+user_id: shubh

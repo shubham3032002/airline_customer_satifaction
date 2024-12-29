@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DATA%20SCIENCE/ML%20project/airline2/mlruns/194378867664936871/3718efe098564595ba0a4a030aa8d718/artifacts
+end_time: 1735483859682
+entry_point_name: ''
+experiment_id: '194378867664936871'
+lifecycle_stage: active
+run_id: 3718efe098564595ba0a4a030aa8d718
+run_name: classy-mole-745
+run_uuid: 3718efe098564595ba0a4a030aa8d718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735483799750
+status: 3
+tags: []
+user_id: shubh
